@@ -10,8 +10,8 @@
   "private": true,
   "dependencies": {
     "@angular/common": "^21.0.0-next",
-    "@angular/compiler": "^21.0.0-next",
-    "@angular/core": "^21.0.0-next",
+    "@angular/compiler": "^21.0.7",
+    "@angular/core": "^21.2.4",
     "@angular/forms": "^21.0.0-next",
     "@angular/platform-browser": "^21.0.0-next",
     "@angular/router": "^21.0.0-next",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@angular/build": "^21.0.0-next",
-    "@angular/cli": "^21.0.0-next",
+    "@angular/cli": "^21.2.3",
     "@angular/compiler-cli": "^21.0.0-next",
     "typescript": "~5.8.2"
   }
